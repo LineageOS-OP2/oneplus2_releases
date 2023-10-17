@@ -2,9 +2,8 @@
 Device-side changes:
 ########################################
 
-- Addressed more SELinux Denials
-- Fixed torch enable/disable through Quick Settings
-- Updated end padding for statusbar
+- Fix some kernel side crashes related to Wi-Fi driver
+- Addressed some more underhood stuff
 
 ########################################
 Source-side changes:
