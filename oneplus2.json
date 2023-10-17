@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
+      "datetime": 20231017,
+      "filename": "lineage-20.0-20231017-UNOFFICIAL-oneplus2.zip",
+      "id": "5e2d98347ddf8109add42517646b1d3765d8b0bb82463a6278e6580e931d9f9b",
+      "romtype": "stable",
+      "size": 711618406,
+      "url": "https://github.com/LineageOS-OP2/oneplus2_releases/releases/download/17-10-2023/lineage-20.0-20231017-UNOFFICIAL-oneplus2.zip",
       "version": "20.0"
     }
   ]

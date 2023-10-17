@@ -2,11 +2,13 @@
 Device-side changes:
 ########################################
 
-- Fix goes here
+- Addressed more SELinux Denials
+- Fixed torch enable/disable through Quick Settings
+- Updated end padding for statusbar
 
 ########################################
 Source-side changes:
 ########################################
 
-- Fix goes here
+- NIL
 
