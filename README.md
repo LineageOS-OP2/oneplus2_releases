@@ -1,1 +1,1 @@
-LineageOS 19.1 builds for the OnePlus 2
+LineageOS builds for the OnePlus 2
